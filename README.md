@@ -8,5 +8,5 @@ If you are curious, check out my Artstation below. Whenever my free time allows,
 
 ## Project Highlight
 
-Have a look at my latest project: ![NITRO](https://github.com/BugelNiels/nitro). Nitro is a visual graph-based node editor for building image processing routines and was built to be easily extendable.
+Have a look at my latest project: [NITRO](https://github.com/BugelNiels/nitro). Nitro is a visual graph-based node editor for building image processing routines and was built to be easily extendable.
 ![Preview](https://github.com/BugelNiels/nitro/blob/main/screenshots/front.png)
