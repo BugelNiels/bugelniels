@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is Niels and I am a computing scientist, book enjoyer, and experienced Google Search user. As far as CS is concerned, my interests lie primarily in the field of Computer Graphics, 3D Rendering, Image-Processing and High-Performance Computing.
-I am also an avid user of Blender, which I first picked up around 10 years ago. Since then, I've always been fascinated with generating realistic renders.
-If you are curious, check out my Artstation below. Whenever my free time allows, I try and post some renders there.
+My name is Niels and I am a computing scientist, book enjoyer, and experienced Google Search user. As far as CS is concerned, my interests lie primarily in the field of High-Performance Computing, Computer Graphics, and Image Processing.
+On top of that, I also tend to enjoy doing some full-stack programming.
+
+In my spare time, I enjoy playing around with Blender, which I first picked up around 10 years ago. Every once in a while, I post some renders on my Artstation, so if you are curious check it out below.
 
 | [Personal Website](https://www.nielsbugel.dev/) | [LinkedIn](https://nl.linkedin.com/in/nielsbugel) | [Artstation](https://www.artstation.com/bugelniels) |
 
